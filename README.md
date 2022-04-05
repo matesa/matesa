@@ -7,7 +7,7 @@
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
-<p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=annihilatorrrr" alt="Poyraz" /></a> </p>
+<p align="left"> <a href="https://github.com/matesa"><img src="https://github-profile-trophy.vercel.app/?username=matesa" alt="Poyraz" /></a> </p>
 
 <br />
 
